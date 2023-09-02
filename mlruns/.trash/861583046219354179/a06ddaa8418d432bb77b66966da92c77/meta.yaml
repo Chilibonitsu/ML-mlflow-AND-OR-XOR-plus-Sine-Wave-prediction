@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/861583046219354179/a06ddaa8418d432bb77b66966da92c77/artifacts
+deleted_time: 1689322217140
+end_time: 1689264732479
+entry_point_name: ''
+experiment_id: '861583046219354179'
+lifecycle_stage: deleted
+run_id: a06ddaa8418d432bb77b66966da92c77
+run_name: upset-calf-822
+run_uuid: a06ddaa8418d432bb77b66966da92c77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689264684052
+status: 4
+tags: []
+user_id: dbach

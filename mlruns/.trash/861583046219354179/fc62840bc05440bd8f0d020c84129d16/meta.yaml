@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/861583046219354179/fc62840bc05440bd8f0d020c84129d16/artifacts
+deleted_time: 1689322217140
+end_time: 1689265094675
+entry_point_name: ''
+experiment_id: '861583046219354179'
+lifecycle_stage: deleted
+run_id: fc62840bc05440bd8f0d020c84129d16
+run_name: capricious-carp-791
+run_uuid: fc62840bc05440bd8f0d020c84129d16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689265057226
+status: 4
+tags: []
+user_id: dbach

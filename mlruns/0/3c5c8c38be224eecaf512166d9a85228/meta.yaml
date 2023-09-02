@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/3c5c8c38be224eecaf512166d9a85228/artifacts
+end_time: 1688548990244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c5c8c38be224eecaf512166d9a85228
+run_name: zealous-lynx-288
+run_uuid: 3c5c8c38be224eecaf512166d9a85228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688548971760
+status: 3
+tags: []
+user_id: dbach

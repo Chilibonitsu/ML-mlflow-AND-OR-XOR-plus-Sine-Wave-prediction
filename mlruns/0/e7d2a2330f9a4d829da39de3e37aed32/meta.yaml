@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/e7d2a2330f9a4d829da39de3e37aed32/artifacts
+end_time: 1688560550998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7d2a2330f9a4d829da39de3e37aed32
+run_name: industrious-boar-410
+run_uuid: e7d2a2330f9a4d829da39de3e37aed32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688560550552
+status: 4
+tags: []
+user_id: dbach

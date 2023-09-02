@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/4553f2e43e4d4bd2bff871567558679a/artifacts
+end_time: 1688563874793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4553f2e43e4d4bd2bff871567558679a
+run_name: exultant-shrew-906
+run_uuid: 4553f2e43e4d4bd2bff871567558679a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688563840233
+status: 3
+tags: []
+user_id: dbach

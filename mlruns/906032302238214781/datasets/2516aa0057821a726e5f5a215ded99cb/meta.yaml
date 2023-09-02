@@ -1,0 +1,10 @@
+digest: ad5f973e
+name: dataset
+profile: '{"features_shape": [670], "features_size": 670, "features_nbytes": 5360,
+  "targets_shape": [670], "targets_size": 670, "targets_nbytes": 5360}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "dbach", "mlflow.source.name": "C:\\Users\\dbach\\Desktop\\rab_ota\\SVM\\SVM
+  Sin.py", "mlflow.source.type": "LOCAL"}}'
+source_type: code

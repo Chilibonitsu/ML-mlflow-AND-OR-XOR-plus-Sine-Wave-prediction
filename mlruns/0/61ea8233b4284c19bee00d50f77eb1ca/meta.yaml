@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/61ea8233b4284c19bee00d50f77eb1ca/artifacts
+end_time: 1689957055589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61ea8233b4284c19bee00d50f77eb1ca
+run_name: caring-shrew-315
+run_uuid: 61ea8233b4284c19bee00d50f77eb1ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689957055317
+status: 3
+tags: []
+user_id: dbach

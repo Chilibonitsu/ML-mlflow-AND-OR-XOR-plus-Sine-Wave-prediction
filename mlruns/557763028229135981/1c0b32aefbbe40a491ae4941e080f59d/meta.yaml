@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/557763028229135981/1c0b32aefbbe40a491ae4941e080f59d/artifacts
+end_time: 1689583200768
+entry_point_name: ''
+experiment_id: '557763028229135981'
+lifecycle_stage: active
+run_id: 1c0b32aefbbe40a491ae4941e080f59d
+run_name: grandiose-mole-575
+run_uuid: 1c0b32aefbbe40a491ae4941e080f59d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689583197826
+status: 4
+tags: []
+user_id: dbach

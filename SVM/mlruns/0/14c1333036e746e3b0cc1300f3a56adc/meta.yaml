@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/SVM/mlruns/0/14c1333036e746e3b0cc1300f3a56adc/artifacts
+end_time: 1688924769890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14c1333036e746e3b0cc1300f3a56adc
+run_name: wistful-turtle-542
+run_uuid: 14c1333036e746e3b0cc1300f3a56adc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688924769418
+status: 4
+tags: []
+user_id: dbach

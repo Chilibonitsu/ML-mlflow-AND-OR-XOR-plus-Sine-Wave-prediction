@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/952194680150259834/0b13fbffab1540f9b66d58f23fe82607/artifacts
+end_time: 1689597547025
+entry_point_name: ''
+experiment_id: '952194680150259834'
+lifecycle_stage: active
+run_id: 0b13fbffab1540f9b66d58f23fe82607
+run_name: ne zapusk
+run_uuid: 0b13fbffab1540f9b66d58f23fe82607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689597544891
+status: 4
+tags: []
+user_id: dbach

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/558481713471741420/363197c348d44f479466e7c591e965d9/artifacts
+end_time: 1689159529465
+entry_point_name: ''
+experiment_id: '558481713471741420'
+lifecycle_stage: active
+run_id: 363197c348d44f479466e7c591e965d9
+run_name: bald-wren-565
+run_uuid: 363197c348d44f479466e7c591e965d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689159508999
+status: 4
+tags: []
+user_id: dbach

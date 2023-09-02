@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/558481713471741420/6c4e5247d5924bdb8f2250248893f724/artifacts
+end_time: 1689164966970
+entry_point_name: ''
+experiment_id: '558481713471741420'
+lifecycle_stage: active
+run_id: 6c4e5247d5924bdb8f2250248893f724
+run_name: puzzled-whale-514
+run_uuid: 6c4e5247d5924bdb8f2250248893f724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689164944265
+status: 4
+tags: []
+user_id: dbach

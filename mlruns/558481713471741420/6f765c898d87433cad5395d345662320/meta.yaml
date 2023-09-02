@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/558481713471741420/6f765c898d87433cad5395d345662320/artifacts
+end_time: 1689165571740
+entry_point_name: ''
+experiment_id: '558481713471741420'
+lifecycle_stage: active
+run_id: 6f765c898d87433cad5395d345662320
+run_name: classy-crow-35
+run_uuid: 6f765c898d87433cad5395d345662320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689165537174
+status: 3
+tags: []
+user_id: dbach

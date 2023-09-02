@@ -1,0 +1,10 @@
+digest: cbbd3b90
+name: dataset
+profile: '{"features_shape": [3, 2], "features_size": 6, "features_nbytes": 24, "targets_shape":
+  [3, 1], "targets_size": 3, "targets_nbytes": 12}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"int32\", \"shape\": [-1, 2]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"int32\", \"shape\": [-1, 1]}}]"}}'
+source: '{"tags": {"mlflow.user": "dbach", "mlflow.source.name": "C:\\Users\\dbach\\Desktop\\\u0440\u0430\u0431_\u043e\u0442\u0430\\tensorFlowLinreg\\tensorFlowLinreg
+  AND .py", "mlflow.source.type": "LOCAL"}}'
+source_type: code

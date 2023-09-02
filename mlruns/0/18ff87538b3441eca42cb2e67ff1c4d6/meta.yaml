@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/18ff87538b3441eca42cb2e67ff1c4d6/artifacts
+end_time: 1688552608929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18ff87538b3441eca42cb2e67ff1c4d6
+run_name: monumental-lynx-357
+run_uuid: 18ff87538b3441eca42cb2e67ff1c4d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688552599929
+status: 3
+tags: []
+user_id: dbach

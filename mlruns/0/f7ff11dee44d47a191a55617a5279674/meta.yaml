@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/f7ff11dee44d47a191a55617a5279674/artifacts
+end_time: 1688555818607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7ff11dee44d47a191a55617a5279674
+run_name: masked-moose-880
+run_uuid: f7ff11dee44d47a191a55617a5279674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688555818457
+status: 4
+tags: []
+user_id: dbach

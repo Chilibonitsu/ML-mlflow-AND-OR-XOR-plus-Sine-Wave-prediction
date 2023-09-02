@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/34bd23f924e448f6b5fa037fa269f716/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34bd23f924e448f6b5fa037fa269f716
+run_name: amusing-ray-868
+run_uuid: 34bd23f924e448f6b5fa037fa269f716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688646659203
+status: 1
+tags: []
+user_id: dbach

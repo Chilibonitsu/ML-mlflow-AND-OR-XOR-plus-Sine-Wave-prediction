@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/952194680150259834/355f6ca4c9e24b7baa88a86cf97448f4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '952194680150259834'
+lifecycle_stage: active
+run_id: 355f6ca4c9e24b7baa88a86cf97448f4
+run_name: sincere-rat-118
+run_uuid: 355f6ca4c9e24b7baa88a86cf97448f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689325285394
+status: 1
+tags: []
+user_id: dbach

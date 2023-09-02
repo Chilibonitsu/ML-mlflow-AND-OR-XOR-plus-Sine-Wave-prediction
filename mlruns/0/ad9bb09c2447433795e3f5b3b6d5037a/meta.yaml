@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/ad9bb09c2447433795e3f5b3b6d5037a/artifacts
+end_time: 1688561370734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad9bb09c2447433795e3f5b3b6d5037a
+run_name: wise-worm-938
+run_uuid: ad9bb09c2447433795e3f5b3b6d5037a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688561370105
+status: 4
+tags: []
+user_id: dbach

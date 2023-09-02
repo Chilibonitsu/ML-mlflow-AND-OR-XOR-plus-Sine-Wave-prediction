@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/422183960903691592/b6ae15a5d7cf430281c20b87a8056963/artifacts
+end_time: 1689090667752
+entry_point_name: ''
+experiment_id: '422183960903691592'
+lifecycle_stage: active
+run_id: b6ae15a5d7cf430281c20b87a8056963
+run_name: serious-lynx-342
+run_uuid: b6ae15a5d7cf430281c20b87a8056963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689090330715
+status: 3
+tags: []
+user_id: dbach

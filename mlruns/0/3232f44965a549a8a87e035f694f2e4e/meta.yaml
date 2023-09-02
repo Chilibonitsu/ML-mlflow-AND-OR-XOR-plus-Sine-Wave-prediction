@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/3232f44965a549a8a87e035f694f2e4e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3232f44965a549a8a87e035f694f2e4e
+run_name: debonair-seal-553
+run_uuid: 3232f44965a549a8a87e035f694f2e4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688982435435
+status: 1
+tags: []
+user_id: dbach

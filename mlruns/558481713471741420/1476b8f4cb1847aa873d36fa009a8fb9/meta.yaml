@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/558481713471741420/1476b8f4cb1847aa873d36fa009a8fb9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '558481713471741420'
+lifecycle_stage: active
+run_id: 1476b8f4cb1847aa873d36fa009a8fb9
+run_name: sincere-foal-81
+run_uuid: 1476b8f4cb1847aa873d36fa009a8fb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689267843441
+status: 1
+tags: []
+user_id: dbach

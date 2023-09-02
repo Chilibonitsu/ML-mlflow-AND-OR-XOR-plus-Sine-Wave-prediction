@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1689328099575
+current_stage: None
+description: ''
+last_updated_timestamp: 1689328099575
+name: SAW-test
+run_id: c89a12e3e3ad46e584475e99f42abef7
+run_link: ''
+source: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/952194680150259834/c89a12e3e3ad46e584475e99f42abef7/artifacts/explainer
+status: READY
+status_message: null
+user_id: null
+version: 1

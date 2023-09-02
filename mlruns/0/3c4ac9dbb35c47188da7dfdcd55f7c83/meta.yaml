@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/3c4ac9dbb35c47188da7dfdcd55f7c83/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c4ac9dbb35c47188da7dfdcd55f7c83
+run_name: chill-carp-137
+run_uuid: 3c4ac9dbb35c47188da7dfdcd55f7c83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688552563634
+status: 1
+tags: []
+user_id: dbach

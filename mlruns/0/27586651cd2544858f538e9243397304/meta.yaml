@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/27586651cd2544858f538e9243397304/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27586651cd2544858f538e9243397304
+run_name: placid-kite-394
+run_uuid: 27586651cd2544858f538e9243397304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688567040059
+status: 1
+tags: []
+user_id: dbach

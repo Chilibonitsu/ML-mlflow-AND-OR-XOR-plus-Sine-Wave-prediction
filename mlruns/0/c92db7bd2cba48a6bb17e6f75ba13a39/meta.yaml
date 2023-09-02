@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/c92db7bd2cba48a6bb17e6f75ba13a39/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c92db7bd2cba48a6bb17e6f75ba13a39
+run_name: skittish-duck-316
+run_uuid: c92db7bd2cba48a6bb17e6f75ba13a39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689956662991
+status: 1
+tags: []
+user_id: dbach

@@ -1,0 +1,8 @@
+digest: 0235683c
+name: dataset
+profile: '{"features_shape": [4, 2], "features_size": 8, "features_nbytes": 64}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 2]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "dbach", "mlflow.source.name": "C:\\Users\\dbach\\Desktop\\rab_ota\\AND
+  OR XOR Linreg\\AND linreg.py", "mlflow.source.type": "LOCAL"}}'
+source_type: code

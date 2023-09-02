@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/557763028229135981/a5b7e3ebeecd4ef0875813630efdbee3/artifacts
+end_time: 1689350571015
+entry_point_name: ''
+experiment_id: '557763028229135981'
+lifecycle_stage: active
+run_id: a5b7e3ebeecd4ef0875813630efdbee3
+run_name: merciful-mink-80
+run_uuid: a5b7e3ebeecd4ef0875813630efdbee3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689350229960
+status: 3
+tags: []
+user_id: dbach

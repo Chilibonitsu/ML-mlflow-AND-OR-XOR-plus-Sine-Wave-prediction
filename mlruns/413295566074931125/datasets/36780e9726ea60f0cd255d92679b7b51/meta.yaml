@@ -1,0 +1,9 @@
+digest: 5cad1d45
+name: dataset
+profile: '{"features_shape": [2500, 1], "features_size": 2500, "features_nbytes":
+  20000}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 1]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "dbach", "mlflow.source.name": "C:\\Users\\dbach\\Desktop\\rab_ota\\timeSeries
+  mlflow Final\\mlpRegressor.py", "mlflow.source.type": "LOCAL"}}'
+source_type: code

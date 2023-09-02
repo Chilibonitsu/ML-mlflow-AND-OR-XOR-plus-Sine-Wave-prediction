@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/8ca3ebe3f920455787cd6123ca3cb65a/artifacts
+end_time: 1688550640086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ca3ebe3f920455787cd6123ca3cb65a
+run_name: handsome-snail-305
+run_uuid: 8ca3ebe3f920455787cd6123ca3cb65a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688550619289
+status: 3
+tags: []
+user_id: dbach

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/9f9bdb89f9c6419d99e1756daa3bdf94/artifacts
+end_time: 1688562974108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f9bdb89f9c6419d99e1756daa3bdf94
+run_name: clean-sheep-331
+run_uuid: 9f9bdb89f9c6419d99e1756daa3bdf94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688562973443
+status: 4
+tags: []
+user_id: dbach

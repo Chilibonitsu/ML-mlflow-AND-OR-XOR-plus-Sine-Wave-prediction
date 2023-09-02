@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/4de66352db8e412d8be3e93057a47cb0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4de66352db8e412d8be3e93057a47cb0
+run_name: charming-toad-185
+run_uuid: 4de66352db8e412d8be3e93057a47cb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688641164151
+status: 1
+tags: []
+user_id: dbach

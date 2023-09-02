@@ -1,0 +1,8 @@
+artifact_location: C:\Users\dbach\Desktop\раб_ота\mlflow location test
+creation_time: 1689085460531
+experiment_id: '670394209691921130'
+last_update_time: 1689169687372
+lifecycle_stage: deleted
+name: tfLinreg And mlflowTesting
+tags:
+  tensorFlowLinreg AND: '2'

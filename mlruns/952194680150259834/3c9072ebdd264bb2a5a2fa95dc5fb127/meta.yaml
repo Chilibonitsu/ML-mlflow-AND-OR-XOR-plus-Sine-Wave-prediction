@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/952194680150259834/3c9072ebdd264bb2a5a2fa95dc5fb127/artifacts
+end_time: 1689326263863
+entry_point_name: ''
+experiment_id: '952194680150259834'
+lifecycle_stage: active
+run_id: 3c9072ebdd264bb2a5a2fa95dc5fb127
+run_name: blushing-sheep-28
+run_uuid: 3c9072ebdd264bb2a5a2fa95dc5fb127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689326017615
+status: 3
+tags: []
+user_id: dbach

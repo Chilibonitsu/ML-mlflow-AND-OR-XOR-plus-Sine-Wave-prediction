@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/952194680150259834/85401c37e0164b9aba5b0434d4560ede/artifacts
+end_time: 1689325771830
+entry_point_name: ''
+experiment_id: '952194680150259834'
+lifecycle_stage: active
+run_id: 85401c37e0164b9aba5b0434d4560ede
+run_name: skillful-smelt-491
+run_uuid: 85401c37e0164b9aba5b0434d4560ede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689325737228
+status: 4
+tags: []
+user_id: dbach

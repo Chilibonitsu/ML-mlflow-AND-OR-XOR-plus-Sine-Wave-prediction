@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/861583046219354179/6f97708a5f0144499234ec2e4bd77af4/artifacts
+deleted_time: 1689322217140
+end_time: 1689266152235
+entry_point_name: ''
+experiment_id: '861583046219354179'
+lifecycle_stage: deleted
+run_id: 6f97708a5f0144499234ec2e4bd77af4
+run_name: indecisive-rook-723
+run_uuid: 6f97708a5f0144499234ec2e4bd77af4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689266117730
+status: 4
+tags: []
+user_id: dbach

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/cfad36441aa841cabb7fc0ebee205c9d/artifacts
+end_time: 1689952323619
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfad36441aa841cabb7fc0ebee205c9d
+run_name: delicate-doe-569
+run_uuid: cfad36441aa841cabb7fc0ebee205c9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689952312333
+status: 3
+tags: []
+user_id: dbach

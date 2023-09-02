@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/557763028229135981/8ff215f2150f45b890e4a75ac874e0b0/artifacts
+end_time: 1689349785686
+entry_point_name: ''
+experiment_id: '557763028229135981'
+lifecycle_stage: active
+run_id: 8ff215f2150f45b890e4a75ac874e0b0
+run_name: skittish-elk-946
+run_uuid: 8ff215f2150f45b890e4a75ac874e0b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689349782361
+status: 4
+tags: []
+user_id: dbach

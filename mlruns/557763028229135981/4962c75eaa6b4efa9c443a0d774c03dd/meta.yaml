@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/557763028229135981/4962c75eaa6b4efa9c443a0d774c03dd/artifacts
+end_time: 1689349291505
+entry_point_name: ''
+experiment_id: '557763028229135981'
+lifecycle_stage: active
+run_id: 4962c75eaa6b4efa9c443a0d774c03dd
+run_name: judicious-crow-976
+run_uuid: 4962c75eaa6b4efa9c443a0d774c03dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689349288179
+status: 4
+tags: []
+user_id: dbach

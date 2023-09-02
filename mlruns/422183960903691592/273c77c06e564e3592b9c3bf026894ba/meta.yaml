@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/422183960903691592/273c77c06e564e3592b9c3bf026894ba/artifacts
+end_time: 1690127240224
+entry_point_name: ''
+experiment_id: '422183960903691592'
+lifecycle_stage: active
+run_id: 273c77c06e564e3592b9c3bf026894ba
+run_name: honorable-bass-237
+run_uuid: 273c77c06e564e3592b9c3bf026894ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690127190487
+status: 3
+tags: []
+user_id: dbach

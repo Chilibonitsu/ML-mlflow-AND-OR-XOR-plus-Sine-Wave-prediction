@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/952194680150259834/67e188e5c5f44dcba2e3a386dc07a40b/artifacts
+end_time: 1689325917066
+entry_point_name: ''
+experiment_id: '952194680150259834'
+lifecycle_stage: active
+run_id: 67e188e5c5f44dcba2e3a386dc07a40b
+run_name: bustling-ray-834
+run_uuid: 67e188e5c5f44dcba2e3a386dc07a40b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689325883326
+status: 4
+tags: []
+user_id: dbach

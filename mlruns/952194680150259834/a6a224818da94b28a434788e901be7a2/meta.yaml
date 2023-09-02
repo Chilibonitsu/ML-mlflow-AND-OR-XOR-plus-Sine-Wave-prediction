@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/952194680150259834/a6a224818da94b28a434788e901be7a2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '952194680150259834'
+lifecycle_stage: active
+run_id: a6a224818da94b28a434788e901be7a2
+run_name: melodic-colt-560
+run_uuid: a6a224818da94b28a434788e901be7a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689584923469
+status: 1
+tags: []
+user_id: dbach

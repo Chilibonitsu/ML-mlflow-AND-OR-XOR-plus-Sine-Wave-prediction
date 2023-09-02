@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/861583046219354179/cf2ab7951f044c54ae730865c198ae68/artifacts
+deleted_time: 1689322217140
+end_time: 1689266035036
+entry_point_name: ''
+experiment_id: '861583046219354179'
+lifecycle_stage: deleted
+run_id: cf2ab7951f044c54ae730865c198ae68
+run_name: thundering-calf-637
+run_uuid: cf2ab7951f044c54ae730865c198ae68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689266000546
+status: 4
+tags: []
+user_id: dbach

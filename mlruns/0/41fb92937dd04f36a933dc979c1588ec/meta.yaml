@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/41fb92937dd04f36a933dc979c1588ec/artifacts
+end_time: 1688549558753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41fb92937dd04f36a933dc979c1588ec
+run_name: wise-skunk-583
+run_uuid: 41fb92937dd04f36a933dc979c1588ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688549151625
+status: 3
+tags: []
+user_id: dbach

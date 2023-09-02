@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/529a6eec950945d4a52d1d4bb99ad219/artifacts
+end_time: 1688640999140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 529a6eec950945d4a52d1d4bb99ad219
+run_name: righteous-hare-288
+run_uuid: 529a6eec950945d4a52d1d4bb99ad219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688640998987
+status: 4
+tags: []
+user_id: dbach

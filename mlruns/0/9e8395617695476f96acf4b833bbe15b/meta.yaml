@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/9e8395617695476f96acf4b833bbe15b/artifacts
+end_time: 1690139474078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e8395617695476f96acf4b833bbe15b
+run_name: good run
+run_uuid: 9e8395617695476f96acf4b833bbe15b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690139453466
+status: 3
+tags: []
+user_id: dbach

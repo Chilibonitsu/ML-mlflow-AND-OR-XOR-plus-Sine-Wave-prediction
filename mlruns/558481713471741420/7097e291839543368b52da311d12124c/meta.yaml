@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/558481713471741420/7097e291839543368b52da311d12124c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '558481713471741420'
+lifecycle_stage: active
+run_id: 7097e291839543368b52da311d12124c
+run_name: wise-yak-424
+run_uuid: 7097e291839543368b52da311d12124c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689165294412
+status: 1
+tags: []
+user_id: dbach

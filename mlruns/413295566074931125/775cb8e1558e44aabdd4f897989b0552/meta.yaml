@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/413295566074931125/775cb8e1558e44aabdd4f897989b0552/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '413295566074931125'
+lifecycle_stage: active
+run_id: 775cb8e1558e44aabdd4f897989b0552
+run_name: good run
+run_uuid: 775cb8e1558e44aabdd4f897989b0552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690198443408
+status: 1
+tags: []
+user_id: dbach

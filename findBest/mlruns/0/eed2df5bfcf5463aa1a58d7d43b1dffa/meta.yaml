@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/findBest/mlruns/0/eed2df5bfcf5463aa1a58d7d43b1dffa/artifacts
+end_time: 1688484108925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eed2df5bfcf5463aa1a58d7d43b1dffa
+run_name: suave-ram-595
+run_uuid: eed2df5bfcf5463aa1a58d7d43b1dffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688484103909
+status: 3
+tags: []
+user_id: dbach

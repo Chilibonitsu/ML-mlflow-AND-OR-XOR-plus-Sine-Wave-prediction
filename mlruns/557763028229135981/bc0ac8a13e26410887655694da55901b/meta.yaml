@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/557763028229135981/bc0ac8a13e26410887655694da55901b/artifacts
+end_time: 1689584957401
+entry_point_name: ''
+experiment_id: '557763028229135981'
+lifecycle_stage: active
+run_id: bc0ac8a13e26410887655694da55901b
+run_name: thundering-skunk-913
+run_uuid: bc0ac8a13e26410887655694da55901b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689584956264
+status: 4
+tags: []
+user_id: dbach

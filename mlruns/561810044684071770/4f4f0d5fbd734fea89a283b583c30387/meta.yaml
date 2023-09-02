@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/561810044684071770/4f4f0d5fbd734fea89a283b583c30387/artifacts
+end_time: 1690146237872
+entry_point_name: ''
+experiment_id: '561810044684071770'
+lifecycle_stage: active
+run_id: 4f4f0d5fbd734fea89a283b583c30387
+run_name: persistent-bass-21
+run_uuid: 4f4f0d5fbd734fea89a283b583c30387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690146233795
+status: 3
+tags: []
+user_id: dbach

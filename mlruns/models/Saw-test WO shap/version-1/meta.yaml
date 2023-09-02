@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1689332136036
+current_stage: None
+description: ''
+last_updated_timestamp: 1689332136036
+name: Saw-test WO shap
+run_id: bd11574635dc44c89900860819b572ac
+run_link: ''
+source: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/952194680150259834/bd11574635dc44c89900860819b572ac/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

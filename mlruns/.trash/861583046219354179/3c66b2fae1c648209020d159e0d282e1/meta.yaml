@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/861583046219354179/3c66b2fae1c648209020d159e0d282e1/artifacts
+deleted_time: 1689322217140
+end_time: null
+entry_point_name: ''
+experiment_id: '861583046219354179'
+lifecycle_stage: deleted
+run_id: 3c66b2fae1c648209020d159e0d282e1
+run_name: polite-lynx-512
+run_uuid: 3c66b2fae1c648209020d159e0d282e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689265128870
+status: 1
+tags: []
+user_id: dbach

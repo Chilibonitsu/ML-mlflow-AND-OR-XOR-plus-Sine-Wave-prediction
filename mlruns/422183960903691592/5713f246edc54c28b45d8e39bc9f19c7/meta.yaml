@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/422183960903691592/5713f246edc54c28b45d8e39bc9f19c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '422183960903691592'
+lifecycle_stage: active
+run_id: 5713f246edc54c28b45d8e39bc9f19c7
+run_name: thundering-smelt-301
+run_uuid: 5713f246edc54c28b45d8e39bc9f19c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690137586107
+status: 1
+tags: []
+user_id: dbach

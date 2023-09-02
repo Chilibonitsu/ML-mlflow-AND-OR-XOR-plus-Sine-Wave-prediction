@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/SVM/mlruns/0/b853bbf716d14610afce34d9c40b9246/artifacts
+end_time: 1688928440932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b853bbf716d14610afce34d9c40b9246
+run_name: capable-roo-117
+run_uuid: b853bbf716d14610afce34d9c40b9246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688928423640
+status: 3
+tags: []
+user_id: dbach

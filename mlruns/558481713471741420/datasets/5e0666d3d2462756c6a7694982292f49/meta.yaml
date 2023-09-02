@@ -1,0 +1,9 @@
+digest: 70274a89
+name: dataset
+profile: '{"features_shape": [1000, 2], "features_size": 2000, "features_nbytes":
+  16000}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 2]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "dbach", "mlflow.source.name": "C:\\Users\\dbach\\Desktop\\\u0440\u0430\u0431_\u043e\u0442\u0430\\SVM\\SVM
+  Half Moon.py", "mlflow.source.type": "LOCAL"}}'
+source_type: code

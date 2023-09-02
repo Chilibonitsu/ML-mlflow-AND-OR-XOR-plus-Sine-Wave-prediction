@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1689597487381
+current_stage: None
+description: ''
+last_updated_timestamp: 1689597487381
+name: hsnck wo shap run
+run_id: a808b1a6a47d4909bc7dd50e2e6714bd
+run_link: ''
+source: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/952194680150259834/a808b1a6a47d4909bc7dd50e2e6714bd/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

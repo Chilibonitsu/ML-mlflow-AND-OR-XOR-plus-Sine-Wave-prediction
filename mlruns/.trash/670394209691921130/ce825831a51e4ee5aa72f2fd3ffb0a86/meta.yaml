@@ -1,0 +1,16 @@
+artifact_uri: c:\Users\dbach\Desktop\раб_ота\mlflow location test/ce825831a51e4ee5aa72f2fd3ffb0a86/artifacts
+deleted_time: 1689169687372
+end_time: 1689085817467
+entry_point_name: ''
+experiment_id: '670394209691921130'
+lifecycle_stage: deleted
+run_id: ce825831a51e4ee5aa72f2fd3ffb0a86
+run_name: industrious-seal-530
+run_uuid: ce825831a51e4ee5aa72f2fd3ffb0a86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689085765498
+status: 3
+tags: []
+user_id: dbach

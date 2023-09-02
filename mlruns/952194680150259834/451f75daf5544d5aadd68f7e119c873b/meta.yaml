@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/952194680150259834/451f75daf5544d5aadd68f7e119c873b/artifacts
+end_time: 1689325358270
+entry_point_name: ''
+experiment_id: '952194680150259834'
+lifecycle_stage: active
+run_id: 451f75daf5544d5aadd68f7e119c873b
+run_name: bright-moose-175
+run_uuid: 451f75daf5544d5aadd68f7e119c873b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689325322409
+status: 4
+tags: []
+user_id: dbach

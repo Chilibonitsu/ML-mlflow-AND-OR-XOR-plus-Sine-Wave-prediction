@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/952194680150259834/a8bbda5936f04dbc96bd8b7eb2e8c453/artifacts
+end_time: 1689330794091
+entry_point_name: ''
+experiment_id: '952194680150259834'
+lifecycle_stage: active
+run_id: a8bbda5936f04dbc96bd8b7eb2e8c453
+run_name: judicious-flea-183
+run_uuid: a8bbda5936f04dbc96bd8b7eb2e8c453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689330741326
+status: 3
+tags: []
+user_id: dbach

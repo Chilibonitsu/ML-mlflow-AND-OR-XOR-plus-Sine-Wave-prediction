@@ -1,0 +1,7 @@
+digest: cebf7dd7
+name: dataset
+profile: '{"num_rows": 670, "num_elements": 670}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "x"}]}'
+source: '{"tags": {"mlflow.user": "dbach", "mlflow.source.name": "C:\\Users\\dbach\\Desktop\\rab_ota\\SVM\\SVM
+  Sin.py", "mlflow.source.type": "LOCAL"}}'
+source_type: code

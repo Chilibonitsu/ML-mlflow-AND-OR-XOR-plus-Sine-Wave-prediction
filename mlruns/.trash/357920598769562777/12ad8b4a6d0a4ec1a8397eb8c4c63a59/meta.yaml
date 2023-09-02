@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/357920598769562777/12ad8b4a6d0a4ec1a8397eb8c4c63a59/artifacts
+deleted_time: 1689323909496
+end_time: 1689323849846
+entry_point_name: ''
+experiment_id: '357920598769562777'
+lifecycle_stage: deleted
+run_id: 12ad8b4a6d0a4ec1a8397eb8c4c63a59
+run_name: incongruous-rat-997
+run_uuid: 12ad8b4a6d0a4ec1a8397eb8c4c63a59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689323815664
+status: 4
+tags: []
+user_id: dbach

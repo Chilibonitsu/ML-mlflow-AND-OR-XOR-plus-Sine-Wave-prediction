@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/952194680150259834/3f6b72a5845848e2ad9f6fff75546105/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '952194680150259834'
+lifecycle_stage: active
+run_id: 3f6b72a5845848e2ad9f6fff75546105
+run_name: xy Saw
+run_uuid: 3f6b72a5845848e2ad9f6fff75546105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689602287606
+status: 1
+tags: []
+user_id: dbach

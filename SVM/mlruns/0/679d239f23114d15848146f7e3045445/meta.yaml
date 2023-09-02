@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/SVM/mlruns/0/679d239f23114d15848146f7e3045445/artifacts
+end_time: 1688928603570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 679d239f23114d15848146f7e3045445
+run_name: useful-gnu-846
+run_uuid: 679d239f23114d15848146f7e3045445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688928603095
+status: 4
+tags: []
+user_id: dbach

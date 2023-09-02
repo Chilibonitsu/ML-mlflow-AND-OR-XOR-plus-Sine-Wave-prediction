@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/558481713471741420/af273cbabeb94938ba3533536fc8305a/artifacts
+end_time: 1689323705787
+entry_point_name: ''
+experiment_id: '558481713471741420'
+lifecycle_stage: active
+run_id: af273cbabeb94938ba3533536fc8305a
+run_name: clean-carp-59
+run_uuid: af273cbabeb94938ba3533536fc8305a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689323671602
+status: 3
+tags: []
+user_id: dbach

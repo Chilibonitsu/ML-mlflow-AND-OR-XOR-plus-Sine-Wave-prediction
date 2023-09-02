@@ -1,0 +1,16 @@
+artifact_uri: c:\Users\dbach\Desktop\раб_ота\mlflow location test/7ee57e15abac4e399b3997dc8f8871fc/artifacts
+deleted_time: 1689169687372
+end_time: 1689088415814
+entry_point_name: ''
+experiment_id: '670394209691921130'
+lifecycle_stage: deleted
+run_id: 7ee57e15abac4e399b3997dc8f8871fc
+run_name: amazing-jay-997
+run_uuid: 7ee57e15abac4e399b3997dc8f8871fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689088387734
+status: 3
+tags: []
+user_id: dbach

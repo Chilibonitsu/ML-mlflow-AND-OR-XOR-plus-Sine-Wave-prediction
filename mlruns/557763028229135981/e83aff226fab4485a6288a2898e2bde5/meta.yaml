@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/557763028229135981/e83aff226fab4485a6288a2898e2bde5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '557763028229135981'
+lifecycle_stage: active
+run_id: e83aff226fab4485a6288a2898e2bde5
+run_name: ambitious-snake-359
+run_uuid: e83aff226fab4485a6288a2898e2bde5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689350765193
+status: 1
+tags: []
+user_id: dbach

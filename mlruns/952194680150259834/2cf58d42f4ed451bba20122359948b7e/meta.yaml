@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/952194680150259834/2cf58d42f4ed451bba20122359948b7e/artifacts
+end_time: 1689584328745
+entry_point_name: ''
+experiment_id: '952194680150259834'
+lifecycle_stage: active
+run_id: 2cf58d42f4ed451bba20122359948b7e
+run_name: skittish-bear-918
+run_uuid: 2cf58d42f4ed451bba20122359948b7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689584267194
+status: 3
+tags: []
+user_id: dbach

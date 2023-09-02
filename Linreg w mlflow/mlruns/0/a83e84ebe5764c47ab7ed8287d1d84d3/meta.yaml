@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlFlowSample/mlruns/0/a83e84ebe5764c47ab7ed8287d1d84d3/artifacts
+end_time: 1688137436003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a83e84ebe5764c47ab7ed8287d1d84d3
+run_name: respected-steed-390
+run_uuid: a83e84ebe5764c47ab7ed8287d1d84d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688137428750
+status: 3
+tags: []
+user_id: dbach

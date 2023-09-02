@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/952194680150259834/a808b1a6a47d4909bc7dd50e2e6714bd/artifacts
+end_time: 1689597450970
+entry_point_name: ''
+experiment_id: '952194680150259834'
+lifecycle_stage: active
+run_id: a808b1a6a47d4909bc7dd50e2e6714bd
+run_name: hsnchk run wo shap
+run_uuid: a808b1a6a47d4909bc7dd50e2e6714bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689597395873
+status: 3
+tags: []
+user_id: dbach

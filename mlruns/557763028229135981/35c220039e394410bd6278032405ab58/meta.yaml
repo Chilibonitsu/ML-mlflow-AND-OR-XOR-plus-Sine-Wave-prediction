@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/557763028229135981/35c220039e394410bd6278032405ab58/artifacts
+end_time: 1689584774813
+entry_point_name: ''
+experiment_id: '557763028229135981'
+lifecycle_stage: active
+run_id: 35c220039e394410bd6278032405ab58
+run_name: traveling-sponge-492
+run_uuid: 35c220039e394410bd6278032405ab58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689584773652
+status: 4
+tags: []
+user_id: dbach

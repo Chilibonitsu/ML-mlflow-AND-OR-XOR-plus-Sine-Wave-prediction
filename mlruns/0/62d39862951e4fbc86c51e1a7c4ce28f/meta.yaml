@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/62d39862951e4fbc86c51e1a7c4ce28f/artifacts
+end_time: 1688563797453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62d39862951e4fbc86c51e1a7c4ce28f
+run_name: omniscient-rook-280
+run_uuid: 62d39862951e4fbc86c51e1a7c4ce28f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688563796842
+status: 4
+tags: []
+user_id: dbach

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/15b92bc2d053419c96c093b0b3691b25/artifacts
+end_time: 1688561553190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15b92bc2d053419c96c093b0b3691b25
+run_name: dapper-hare-829
+run_uuid: 15b92bc2d053419c96c093b0b3691b25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688561530474
+status: 3
+tags: []
+user_id: dbach

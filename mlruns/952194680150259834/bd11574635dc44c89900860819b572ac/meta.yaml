@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/952194680150259834/bd11574635dc44c89900860819b572ac/artifacts
+end_time: 1689332115338
+entry_point_name: ''
+experiment_id: '952194680150259834'
+lifecycle_stage: active
+run_id: bd11574635dc44c89900860819b572ac
+run_name: redolent-stoat-644
+run_uuid: bd11574635dc44c89900860819b572ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689332065818
+status: 3
+tags: []
+user_id: dbach

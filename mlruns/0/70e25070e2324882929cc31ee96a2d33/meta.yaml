@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/%D1%80%D0%B0%D0%B1_%D0%BE%D1%82%D0%B0/mlruns/0/70e25070e2324882929cc31ee96a2d33/artifacts
+end_time: 1688634332512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70e25070e2324882929cc31ee96a2d33
+run_name: AND TF
+run_uuid: 70e25070e2324882929cc31ee96a2d33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688634314501
+status: 4
+tags: []
+user_id: dbach

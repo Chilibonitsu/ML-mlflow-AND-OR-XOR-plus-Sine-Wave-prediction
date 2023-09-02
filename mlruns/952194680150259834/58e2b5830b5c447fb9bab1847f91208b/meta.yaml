@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dbach/Desktop/rab_ota/mlruns/952194680150259834/58e2b5830b5c447fb9bab1847f91208b/artifacts
+end_time: 1689595173068
+entry_point_name: ''
+experiment_id: '952194680150259834'
+lifecycle_stage: active
+run_id: 58e2b5830b5c447fb9bab1847f91208b
+run_name: SAW DoShap from SAW WO shap train testing 1
+run_uuid: 58e2b5830b5c447fb9bab1847f91208b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689595171023
+status: 4
+tags: []
+user_id: dbach
